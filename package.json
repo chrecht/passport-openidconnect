@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openidconnect.git"
+    "url": "git://github.com/chrecht/passport-openidconnect.git"
   },
   "bugs": {
-    "url": "https://github.com/jaredhanson/passport-openidconnect/issues"
+    "url": "https://github.com/chrecht/passport-openidconnect/issues"
   },
   "funding": {
     "type": "github",
